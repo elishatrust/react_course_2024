@@ -2,7 +2,7 @@ import React from 'react'
 
 const Hero = ({
     title = 'Become a React Dev Heroku',
-    subtitle = 'Find the React Dev Heroku job that fits your skills set',
+    subtitle = 'Find the React Dev Heroku Job That Fits Your Skills Set',
 
 }) => {
     return (
